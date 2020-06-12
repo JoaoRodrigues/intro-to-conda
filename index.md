@@ -2,7 +2,7 @@
 
 ### Description
 
-This short workshop aims to show familiarize participants with `conda` environments. For many new and existing Python programmers, Anaconda/Miniconda has become the default way to install the language and manage third-party libraries. While the graphical user interface (Navigator) offers plenty of features, it pays off to learn to use the command-line, specially for those working with version control systems, such as git, or in CLI environments, like compute clusters.
+This short workshop aims to familiarize participants with `conda` environments. For many new and existing Python programmers, Anaconda/Miniconda has become the default way to install the language and manage third-party libraries. While the graphical user interface (Navigator) offers plenty of features, it pays off to learn to use the command-line, specially for those working with version control systems, such as git, or in CLI environments, like compute clusters.
 
 ### What to expect from the workshop?
 
